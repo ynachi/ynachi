@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ynachi
 - 👀 I’m interested in Software Engineering in IT infrastructure/plateforms domain.
 - 🌱 I’m currently learning Golang/Distributed Systems
-- 💞️ I’m looking to collaborate on the distributed systems development, infrastructure opetaion and deployment tools.
+- 💞️ I’m looking to collaborate on distributed systems development, infrastructure operation and deployment.
 - 📫 How to reach me achi.noel@hotmail.com
 
 <!---
